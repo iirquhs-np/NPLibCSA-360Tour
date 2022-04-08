@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="CSA 360 Virtual Tour @ Bishan Library_DRAFT 1" />
+              <option name="title_text" value="CSA 360 Virtual Tour @ Bishan Library_DRAFT 2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1528,21 +1528,25 @@
       <links>
         <slidelink slideid="_player.6CCNu9LYaaf" displaytext="Virtual Tour" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6CCNu9LYaaf.6iiBCPvYW1a" displaytext="Home" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.6n0m7XVxzrq" displaytext="Navigate around" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.6dLUmNW2CiQ" displaytext="Living in the Digital World" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5ccopNQp0Cg" displaytext="Digital Defence: How to be Cyber Safe?" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5vFPu4bhfM7" displaytext="Get Cyber Safe Video Ep 6 - The Botnet Attacks" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5kgjc4NdCnr" displaytext="Navigate around" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5Yf8HQf8pja" displaytext="Dangers in the Digital World" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5rSUhhUK0jE" displaytext="Get Cyber Safe Ep 2 - The &amp;quot;Movie&amp;quot; Malware" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5vtwlmkjbXr" displaytext="Get Cyber Safe Ep 5 - The Hacked Home Camera and the Viral Video" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5VjVwLrQdfP" displaytext="Navigate around" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.60rKQqrIdi0" displaytext="What is Phishing" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.6TFAlKbpY17" displaytext="Get Cyber Safe Ep 4 - The &amp;apos;Phishy&amp;apos; Delivery Message" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.5qxrEbdKoyH" displaytext="Bank Phishing Scam Demonstration" expand="false" type="slide" />
-            <slidelink slideid="_player.6CCNu9LYaaf.6noEVjU7mZu" displaytext="Get Cyber Safe Ep 1 - The Friendly &amp;quot;Phishy&amp;quot; Email" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.6d4TeuAmbru" displaytext="What can I do to protect myself?" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.60rKQqrIdi0" displaytext="What is Phishing" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5VjVwLrQdfP" displaytext="Navigate around" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5Yf8HQf8pja" displaytext="Dangers in the Digital World" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6gsVnL4oDbN" displaytext="Navigate around" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6dLUmNW2CiQ" displaytext="Living in the Digital World" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6n0m7XVxzrq" displaytext="Navigate around" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6iiBCPvYW1a" displaytext="Vending Machine" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6iL96KZ5F6m" displaytext="Get Cyber Safe Episode 1 – The Hacked Game Account" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5rSUhhUK0jE" displaytext="Get Cyber Safe Ep 2 - The &amp;quot;Movie&amp;quot; Malware" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6noEVjU7mZu" displaytext="Get Cyber Safe Ep 3 - The Friendly &amp;quot;Phishy&amp;quot; Email" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6TFAlKbpY17" displaytext="Get Cyber Safe Ep 4 - The &amp;apos;Phishy&amp;apos; Delivery Message" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5vtwlmkjbXr" displaytext="Get Cyber Safe Ep 5 - The Hacked Home Camera and the Viral Video" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5vFPu4bhfM7" displaytext="Get Cyber Safe Video Ep 6 - The Botnet Attacks" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5YGMcdSd0ga" displaytext="Cyber Sandra&amp;apos;s Hacks - Festive Phishing" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6kTIgIhiqJI" displaytext="Cyber Sandra&amp;apos;s Hacks - Anti-Virus Software" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6dEqBV2GqDM" displaytext="Cyber Sandra&amp;apos;s Hacks - Enabling Two-Factor Authentication (2FA)" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5ccopNQp0Cg" displaytext="Digital Defence: How to be Cyber Safe?" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5qxrEbdKoyH" displaytext="Bank Phishing Scam Demonstration" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
