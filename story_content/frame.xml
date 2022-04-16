@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="CSA 360 Virtual Tour @ Bishan Library_DRAFT 2.1" />
+              <option name="title_text" value="CSA 360 Virtual Tour @ Bishan Library_DRAFT 3" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1529,11 +1529,15 @@
         <slidelink slideid="_player.6CCNu9LYaaf" displaytext="Virtual Tour" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6CCNu9LYaaf.6d4TeuAmbru" displaytext="What can I do to protect myself?" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6nlcVnwT0mQ" displaytext="Enlarged: What can I do to protect myself?" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.60rKQqrIdi0" displaytext="What is Phishing" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.5Zt62o4LPMd" displaytext="Enlarged: What is Phishing" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.5VjVwLrQdfP" displaytext="Navigate around" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.5Yf8HQf8pja" displaytext="Dangers in the Digital World" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6H9zBVGIEWY" displaytext="Enlarged: Dangers in the Digital World" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.6gsVnL4oDbN" displaytext="Navigate around" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.6dLUmNW2CiQ" displaytext="Living in the Digital World" expand="false" type="slide" />
+            <slidelink slideid="_player.6CCNu9LYaaf.6pDgDA4XwOq" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.6n0m7XVxzrq" displaytext="Navigate around" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.6iiBCPvYW1a" displaytext="Vending Machine" expand="false" type="slide" />
             <slidelink slideid="_player.6CCNu9LYaaf.6iL96KZ5F6m" displaytext="Get Cyber Safe Episode 1 – The Hacked Game Account" expand="false" type="slide" />
